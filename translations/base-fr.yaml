@@ -430,8 +430,8 @@ ingame:
                 desc: Hunt them all!
     puzzleEditorSettings:
         zoneTitle: Zone
-        zoneWidth: Width
-        zoneHeight: Height
+        zoneWidth: Largeur
+        zoneHeight: Hauteur
         trimZone: Trim
         clearItems: Clear Items
         share: Share
@@ -454,18 +454,18 @@ ingame:
               except for the Producers and Goal Acceptors - That's the part that
               the player is supposed to figure out for themselves, after all :)
     puzzleCompletion:
-        title: Puzzle Completed!
-        titleLike: "Click the heart if you liked the puzzle:"
-        titleRating: How difficult did you find the puzzle?
+        title: Puzzle Completé !
+        titleLike: "Clique sur le coeur si tu as aimé le puzzle:"
+        titleRating: De quelle difficulté etait le puzzle ?
         titleRatingDesc: Your rating will help me to make you better suggestions in the future
         continueBtn: Keep Playing
         menuBtn: Menu
     puzzleMetadata:
-        author: Author
+        author: Auteur
         shortKey: Short Key
-        rating: Difficulty score
-        averageDuration: Avg. Duration
-        completionRate: Completion rate
+        rating: Niveau de Difficulté
+        averageDuration: Durée Moyenne
+        completionRate: Taux de réussite
 shopUpgrades:
     belt:
         name: Convoyeurs, distributeurs et tunnels
